@@ -1,3 +1,5 @@
+<img width="960" height="1032" alt="CircuitPuzzle" src="https://github.com/user-attachments/assets/e380d5c7-17cd-4ec0-9061-676e75026718" />
+
 # Circuit Puzzle
 
 Gioco a riga di comando in C# (.NET 9): chiudi il circuito giusto accendendo
